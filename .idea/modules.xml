@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01star/01star.iml" filepath="$PROJECT_DIR$/01star/01star.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-memoryuserdetails/02-memoryuserdetails.iml" filepath="$PROJECT_DIR$/02-memoryuserdetails/02-memoryuserdetails.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-user-role-ajax/03-user-role-ajax.iml" filepath="$PROJECT_DIR$/03-user-role-ajax/03-user-role-ajax.iml" />
+    </modules>
+  </component>
+</project>
